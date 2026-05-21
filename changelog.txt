@@ -1,0 +1,7 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 2025-05-21
+  Changelog:
+    - updated textures and miniature to use pelagos copper spitter model which feels more fitting
+    - updated license
+---------------------------------------------------------------------------------------------------

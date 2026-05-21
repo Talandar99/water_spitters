@@ -1,0 +1,11 @@
+{
+    "name": "water_spitters",
+    "version": "0.3.0",
+    "title": "Water Spitters",
+    "author": "Talandar",
+    "dependencies": [
+        "base >= 2.0"
+    ],
+    "description": "Awwww they can swim now... THEY CAN SWIM NOW?!?",
+    "factorio_version": "2.0"
+}
